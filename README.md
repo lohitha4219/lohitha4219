@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=140&section=header&text=NS%20Lohitha&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Full-Stack%20Developer&descSize=18&descAlignY=62" alt="NS Lohitha - Aspiring Full-Stack Developer" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://lohitha4219.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://lohithaportfolio-gray.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ns-lohitha-a70a4434a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/h7QOBQUdNb/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lohitha4219@gmail.com)
@@ -67,6 +67,18 @@ A full-stack smart campus web application designed to simplify access to campus 
 - **Tools:** Git, GitHub, VS Code
 - **Deployment:** Frontend deployed on Vercel
 - 🔗 [Live Demo](https://kec-fullstack.vercel.app/)
+  
+### 🏥 HealthAssist AI – AI-Powered Healthcare Assistant
+
+An AI-powered healthcare web application designed to provide an interactive healthcare assistance experience through a modern web interface.
+
+- **Features:** Healthcare assistance, AI-powered interaction, user authentication, dashboard, health insights, and reports
+- **Frontend:** React.js, JavaScript
+- **Backend:** Python, FastAPI
+- **Database:** PostgreSQL
+- **Tools:** Git, GitHub, VS Code
+- 🔗 [GitHub Repository](https://github.com/lohitha4219/HealthAssist-AI)
+
 
 ### 🍕 FoodCourt Pizza
 
@@ -84,7 +96,7 @@ My personal portfolio, bringing my skills, projects, education, and contact link
 - **Sections:** Home, About, Skills, Projects, Education and Experience, Resume download, Contact links
 - **Highlights:** Responsive design, deployed with GitHub Pages
 - **Tech stack:** HTML5, CSS3, JavaScript
-- 🔗 [Live Site](https://lohitha4219.github.io/portfolio/) · [Repository](https://github.com/lohitha4219/portfolio)
+- 🔗 [Live Site](https://lohithaportfolio-gray.vercel.app/) · [Repository](https://github.com/lohitha4219/portfolio)
 
 ## 💼 Experience
 
@@ -127,7 +139,7 @@ Real-world full-stack applications such as e-commerce websites, student and camp
 
 ## 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lohitha4219.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lohithaportfolio-gray.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ns-lohitha-a70a4434a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/h7QOBQUdNb/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohitha4219@gmail.com)
