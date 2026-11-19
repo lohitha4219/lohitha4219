@@ -68,6 +68,7 @@ A full-stack smart campus web application designed to simplify access to campus 
 - **Deployment:** Frontend deployed on Vercel
 - 🔗 [Live Demo](https://kec-fullstack.vercel.app/)
   
+
 ### 🏥 HealthAssist AI – AI-Powered Healthcare Assistant
 
 An AI-powered healthcare web application designed to provide an interactive healthcare assistance experience through a modern web interface.
@@ -77,8 +78,7 @@ An AI-powered healthcare web application designed to provide an interactive heal
 - **Backend:** Python, FastAPI
 - **Database:** PostgreSQL
 - **Tools:** Git, GitHub, VS Code
-- 🔗 [GitHub Repository](https://github.com/lohitha4219/HealthAssist-AI)
-
+- 🔗 [Live Demo](https://frontend-seven-jet-60.vercel.app/) · [GitHub Repository](https://github.com/lohitha4219/HealthAssist-AI)
 
 ### 🍕 FoodCourt Pizza
 
